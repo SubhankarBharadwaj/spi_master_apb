@@ -21,7 +21,7 @@ Currently implemented:
 The design was simulated using Icarus Verilog and GTKWave.
 Some things I still want to improve:
 
-1) support for all SPI modes(I tried it but timing issues arrived in mode 1 and 3 when CPHA=1)
+1) support for all SPI modes(I tried it but timing issues arrived)
 2) better APB status handling
 3) cleaner verification structure
 
