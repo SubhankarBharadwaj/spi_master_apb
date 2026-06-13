@@ -87,6 +87,7 @@ begin
             8'h08:
             begin
               tx_data <= pwdata[7:0];
+			  tx_data <= 1;
             end
             8'h00:
             begin
