@@ -24,3 +24,6 @@ Some things I still want to improve:
 1) support for all SPI modes(I tried it but timing issues arrived in mode 1 and 3 when CPHA=1)
 2) better APB status handling
 3) cleaner verification structure
+
+Waveform
+<img width="1992" height="1240" alt="image" src="https://github.com/user-attachments/assets/6d550552-30a2-45dd-936e-f50628597587" />
